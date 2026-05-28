@@ -7,30 +7,9 @@
 
 - 🎓 AI & Data Science student passionate about Machine Learning and Data Engineering  
 - 💡 Interested in AI, Analytics, Big Data, and Automation  
-- 📊 Working on Machine Learning & Stock Market Prediction Projects  
 - 🐍 Comfortable with Python, SQL, and Linux environments  
-- 🚀 Currently learning Generative AI and Reinforcement Learning  
+- 🚀 Currently learning Generative AI and NLP 
 - 🔍 Exploring Data Processing and Scalable AI Systems  
-
----
-
-## 🚀 Featured Projects
-
-### 📈 Stock Trading using Reinforcement Learning
-Developed an intelligent trading system using Reinforcement Learning and OpenAI Gym.
-
-- 📌 **Problem:** Predicting profitable buy/sell actions in stock markets  
-- ✅ **Solution:** Used RL agents to learn trading strategies from market data  
-- 🛠 **Tech Stack:** Python • OpenAI Gym • Pandas • NumPy • Matplotlib  
-
----
-
-### 📊 Stock Detection using K-Means Clustering
-Built an unsupervised machine learning project for stock prediction and signal generation.
-
-- 📌 **Problem:** Identifying stock behavior patterns without labeled data  
-- ✅ **Solution:** Applied K-Means clustering to detect market trends and signals  
-- 🛠 **Tech Stack:** Python • Scikit-learn • Data Analysis • Visualization  
 
 ---
 
