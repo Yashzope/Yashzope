@@ -37,19 +37,6 @@ Exploring integration of Generative AI with Machine Learning applications.
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,mysql" />
 </p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="streak" />
-</p>
-
 ---
 
 ## 🌐 Connect With Me
