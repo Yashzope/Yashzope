@@ -57,11 +57,5 @@ Exploring integration of Generative AI with Machine Learning applications.
   
 ![](https://leetcard.jacoblin.cool/Yashzope?ext=heatmap)
 
-<p align="center">
-  <img src="./assets/dashboard.svg" width="100%" />
-</p>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashzope&theme=github-dark" />
-
 <!---
 
