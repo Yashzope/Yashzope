@@ -1,23 +1,28 @@
 <h1 align="center">👋 Hi, I'm Yash</h1>
-<h3 align="center">Python Developer | AI & Data Science Enthusiast</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 AI & Data Science student passionate about Machine Learning and Data Engineering  
-- 💡 Interested in AI, Analytics, Big Data, and Automation  
-- 🐍 Comfortable with Python, SQL, and Linux environments  
-- 🚀 Currently learning Generative AI and NLP 
-- 🔍 Exploring Data Processing and Scalable AI Systems  
+- 🎓 Passionate about Machine Learning and Data Engineering
+- 💡 Interested in AI, Analytics, Big Data, Cloud Computing, and Automation
+- 🐍 Experienced with Python, SQL, Linux, and scalable data pipelines
+- 🚀 Currently learning Generative AI, NLP, and MLOps
+- 🔍 Exploring Distributed Data Processing, Data Warehousing, and AI Systems
 
 ---
 
-### 🤖 AI + Generative AI Projects
-Exploring integration of Generative AI with Machine Learning applications.
+## 🤖 AI & Machine Learning
 
-- 📌 **Focus Areas:** AI assistants, automation, intelligent systems  
-- 🛠 **Tech Stack:** Python • LLMs • Machine Learning • Deep Learning  
+- 📌 **Focus Areas:** LLMs, NLP, AI Assistants, Generative AI
+- 🛠 **Technologies:** Python • TensorFlow • PyTorch • Scikit-learn • Hugging Face • LangChain • Rag • 
+
+---
+
+## 📊 Data Engineering
+
+- 📌 **Focus Areas:** ETL/ELT, Data Warehousing, Big Data, Streaming, Cloud Data Platforms
+- 🛠 **Technologies:** ⚡ Apache Spark • 📨 Apache Kafka • Airflow • Hadoop • 🐳 Docker • 🟧 Databricks  • ❄️ Snowflake
 
 ---
 
@@ -25,18 +30,39 @@ Exploring integration of Generative AI with Machine Learning applications.
 
 ### 👨‍💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,sql,r" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,bash,mysql,postgres" />
 </p>
 
-### 📚 Libraries & Frameworks
+### 🤖 Machine Learning & AI
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
 </p>
 
-### ⚙️ Tools & Platforms
+### 📚 Data Science Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,mysql" />
+  <img src="https://skillicons.dev/icons?i=pandas,numpy" />
 </p>
+
+### ⚡ Data Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=spark,kafka,docker" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,terraform" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis" />
+</p>
+
+### 🛠 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,anaconda" />
+</p>
+
 ---
 
 ## 🌐 Connect With Me
