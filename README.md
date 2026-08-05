@@ -1,3 +1,4 @@
+```markdown
 <h1 align="center">👋 Hi, I'm Yash</h1>
 
 ---
@@ -14,15 +15,15 @@
 
 ## 🤖 AI & Machine Learning
 
-- 📌 **Focus Areas:** LLMs, NLP, AI Assistants, Generative AI
-- 🛠 **Technologies:** Python • TensorFlow • PyTorch • Scikit-learn • Hugging Face • LangChain • Rag • 
+- 📌 **Focus Areas:** LLMs, NLP, RAG, AI Assistants, Generative AI
+- 🛠 **Technologies:** Python • TensorFlow • PyTorch • Scikit-learn • Hugging Face • LangChain • MLflow
 
 ---
 
 ## 📊 Data Engineering
 
-- 📌 **Focus Areas:** ETL/ELT, Data Warehousing, Big Data, Streaming, Cloud Data Platforms
-- 🛠 **Technologies:** ⚡ Apache Spark • 📨 Apache Kafka • Airflow • Hadoop • 🐳 Docker • 🟧 Databricks  • ❄️ Snowflake
+- 📌 **Focus Areas:** ETL/ELT • Data Warehousing • Big Data • Streaming • Cloud Data Platforms
+- 🛠 **Technologies:** Apache Spark • Apache Kafka • Airflow • Hadoop • Docker • Databricks • Snowflake • dbt
 
 ---
 
@@ -36,16 +37,24 @@
 ### 🤖 Machine Learning & AI
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
 </p>
 
 ### 📚 Data Science Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=pandas,numpy" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
 ### ⚡ Data Engineering
 <p>
   <img src="https://skillicons.dev/icons?i=spark,kafka,docker" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
 </p>
 
 ### ☁️ Cloud & DevOps
@@ -66,6 +75,8 @@
 ---
 
 ## 🌐 Connect With Me
+```
+
 
 <p align="left">
 <a href="https://www.linkedin.com/in/yashzope7/" target="blank">
