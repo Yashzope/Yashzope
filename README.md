@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">👋 Hi, I'm Yash</h1>
 
 ---
@@ -75,7 +75,7 @@
 ---
 
 ## 🌐 Connect With Me
-```
+---
 
 
 <p align="left">
